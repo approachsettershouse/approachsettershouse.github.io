@@ -636,6 +636,11 @@ h6 {
   text-align: left;
 }
 
+
+p.description{
+  text-align: center !important;
+}
+
 /* Why Us Section
 --------------------------------*/
 
